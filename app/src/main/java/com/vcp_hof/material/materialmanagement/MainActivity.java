@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity{
         System.out.println("connected");
         startActivity(new Intent(this, MainMenu.class));
     }
-    //donee
+    //done
 }
 
