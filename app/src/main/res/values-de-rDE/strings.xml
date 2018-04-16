@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Materialverwaltung</string>
+    <string name="LoginInfo">Bitte geben sie ihre Nutzerdaten ein.</string>
+    <string name="ServerUrl">Server URL</string>
+    <string name="Database_txt">Datenbank</string>
+    <string name="Pass">Passwort</string>
+    <string name="User">Benutzername</string>
+    <string name="Connect">Verbinden</string>
+    <string name="ConnectionState">Verbindungszustand</string>
+    <string name="ConnectedTo">Verbunden mit</string>
+    <string name="Disconnect">Verbindung trennen</string>
+</resources>
